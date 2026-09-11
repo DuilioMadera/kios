@@ -1,0 +1,12 @@
+node_modules
+dist
+.output
+.vercel
+.nitro
+.tanstack
+.wrangler
+coverage
+*.log
+.env
+.env.*
+.DS_Store
